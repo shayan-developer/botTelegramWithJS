@@ -1,0 +1,3 @@
+# botTelegramWithJS
+install
+npm install
